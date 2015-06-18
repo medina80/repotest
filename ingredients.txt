@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Salmorejo
 - 5 tomatoes
@@ -7,3 +8,14 @@ Salmorejo
 - 1/2 green pepper
 - bread
 - boiled egg
+=======
+Chaat recipe: 
+- 15 crackers
+- 1 onion
+- 2 potatoes
+- 1/2 cup chutney
+- 1/2 cup yogurt
+- crispy noodles
+- poisons 2
+
+>>>>>>> b38e1c5882ddb464273b1b84897f1a13eb108cc7
